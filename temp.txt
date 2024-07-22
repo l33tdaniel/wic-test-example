@@ -1,0 +1,5 @@
+git@github.com:l33tdaniel/wic-test-example.git
+
+git@github.com
+username
+repository
